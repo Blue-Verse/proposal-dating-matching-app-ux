@@ -90,7 +90,7 @@ job:
 ## 6. 최종 산출물
 
 ### 제안서 사이트 URL
-https://blue-verse.github.io/proposal-dating-matching-app-ux/
+https://proposal-dating-matching-app-ux.pages.dev/
 
 ### 지원 금액
 1,800,000원
@@ -108,7 +108,7 @@ https://blue-verse.github.io/proposal-dating-matching-app-ux/
 2) 단계별 검수 — 기획(IA/와이어프레임) → 핵심 화면 디자인 → 전체 화면 → 스타일 가이드 순으로 단계별 검수를 진행하여 중간 수정 비용을 최소화합니다.
 3) 디자인 시스템 구축 — 컴포넌트, 색상, 타이포그래피를 체계적으로 정리하여 향후 개발 단계에서의 효율성을 극대화합니다.
 
-상세 제안서를 별도 페이지로 준비하였습니다: https://blue-verse.github.io/proposal-dating-matching-app-ux/
+상세 제안서를 별도 페이지로 준비하였습니다: https://proposal-dating-matching-app-ux.pages.dev/
 
 **Q: 유사한 프로젝트를 수행한 경험이 있다면 무엇입니까?**
 
@@ -125,7 +125,7 @@ https://blue-verse.github.io/proposal-dating-matching-app-ux/
 안녕하세요, 모바일 소개팅/매칭 앱 UI/UX 디자인 프로젝트에 지원합니다.
 
 본 프로젝트에 대한 상세 제안서(견적서, 공수계산서, PRD, 일정, 포트폴리오)를 별도 페이지로 준비하였습니다. 아래 링크에서 확인해 주시면 감사하겠습니다.
-▶ 제안서 상세 페이지: https://blue-verse.github.io/proposal-dating-matching-app-ux/
+▶ 제안서 상세 페이지: https://proposal-dating-matching-app-ux.pages.dev/
 ▶ 위시켓 포트폴리오: https://www.wishket.com/partners/p/blueverse1/
 
 ---
